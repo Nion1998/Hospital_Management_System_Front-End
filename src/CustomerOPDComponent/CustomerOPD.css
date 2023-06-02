@@ -1,0 +1,27 @@
+.form_cart {
+    max-width: auto;
+    margin: 4% 15% 1% 15% ;
+    padding: 2%;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    position: justify-content;
+  }
+
+  .form_search {
+    max-width: auto;
+    margin: 4% 15% 1% 15% ;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    position: justify-content;
+  }
+
+
+  .button_search {
+    margin: 1px 1px;
+    display: flex;
+    color: rgb(97, 97, 97);
+}
+
+.action_btn{
+    margin: 10px 10px;
+}

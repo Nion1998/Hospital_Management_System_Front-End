@@ -1,0 +1,27 @@
+.read {
+
+    margin: 2% 10% 0 10% ;
+    padding: 2%;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    position: relative;
+   
+  }
+
+  .create {
+
+    margin: 2% 10% 0 10% ;
+    padding: 2%;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    
+  }
+
+
+  .create_btn {
+    margin: 10px 5px;
+}
+
+.action_btn{
+    margin: 10px 0;
+}
